@@ -83,7 +83,7 @@ img {
         font-size: 25px;
     }
 
-    .parent {
+    #parent {
         display: flex;
         flex-direction: column;
     }
