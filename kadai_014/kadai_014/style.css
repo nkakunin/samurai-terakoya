@@ -3,7 +3,7 @@ body {
     text-align: center;
 }
 
-.josefin-sans-uniquifier {
+.google-fonts {
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: weight;
@@ -16,6 +16,7 @@ html {
 
 h1 {
     font-size: 2rem;
+    font-family: "Josefin Sans", sans-serif;
 }
 
 .text-blue {
